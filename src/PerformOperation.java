@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface PerformOperation {
+public interface PerformOperation {
+    boolean check(int number);
 }
